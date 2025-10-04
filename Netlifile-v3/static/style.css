@@ -1,0 +1,28 @@
+#test {
+    font-size: 100px;
+}
+
+body {
+    background-color: rgb(50, 50, 50);
+    color: white;
+    font-size: 24px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.file {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #1b1b1b;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
